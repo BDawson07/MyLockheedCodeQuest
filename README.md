@@ -34,15 +34,12 @@ with this
 ```
 sys.stdin.readline().rstrip()
 ```
-*Finally, to test different inputs against the code, change the contents of the ```inputs.txt``` file
+* Finally, to test different inputs against the code, change the contents of the ```inputs.txt``` file
 
 
 ## Help
 
-If you find there was an error with any of these 
-```
-command to run if program contains helper info
-```
+If you find there was an error with any of these, get in contact with GitHub
 
 ## Authors
 

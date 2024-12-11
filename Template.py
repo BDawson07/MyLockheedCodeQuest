@@ -9,10 +9,14 @@ import sys
 import math
 import string
 
-### DELETE AFTER TESING
-sys.path.append('D:\\CodeQuest')
-import inputs
-inputs.init("inputs")
+#change when in testing mode
+testing = True
+
+### used to test with fewer inputs
+if testing:
+    sys.path.append('D:\\CodeQuest')
+    import inputs
+    inputs.init("inputs")
 ####
 
 #input
